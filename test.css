@@ -6,3 +6,7 @@ box-shadow: 1px 1px 20px 20px;
 position: relative;
 margin: -12px;
 }
+
+.comments {
+	font-size: 18px;
+}
