@@ -10,3 +10,7 @@ margin: -12px;
 .comments {
 	font-size: 18px;
 }
+
+.comment-name {
+	color: cyan;
+}
