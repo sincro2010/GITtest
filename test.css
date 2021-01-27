@@ -1,0 +1,7 @@
+.selector {
+color: black;
+background-color: cyan;
+border: solid 1px green;
+box-shadow: 1px 1px 20px 20px;
+position: relative;
+}
